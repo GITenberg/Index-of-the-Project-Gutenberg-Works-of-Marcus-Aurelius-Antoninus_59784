@@ -1,0 +1,32 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Marcus-Aurelius-Antoninus_59784
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marcus Aurelius, Emperor of Rome
+    aliases:
+    - Aurel, Marc
+    - Antoninus, Marcus Aurelius
+    - Aurelius, Marcus
+    birthdate: 121
+    deathdate: 180
+    gutenberg_agent_id: '998'
+    url: http://www.gutenberg.org/2009/agents/998
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Aurelius
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Marcus Aurelius Antoninus
+url: http://www.gutenberg.org/ebooks/59784
